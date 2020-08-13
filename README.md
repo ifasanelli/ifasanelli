@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+ <img width="60%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</p>
 
-<!--
-**ifasanelli/ifasanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
 
-Here are some ideas to get you started:
+### Hi, I'm Ítalo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programmer at [@autoseg](https://www.autoseg.com/)
+
+
+### Find me around at 🌎
+
+- 🐦 [@ifasanelli](https://twitter.com/ifasanelli)
+- 💼 [linkedin.com/in/ítalo-fasanelli-leomil](https://www.linkedin.com/in/ítalo-fasanelli-leomil-571ab782/)
+
+</samp>
