@@ -22,7 +22,8 @@
 
 ### Find me around at 🌎
 
-- 🐦 [@ifasanelli](https://twitter.com/ifasanelli)
-- 💼 [linkedin.com/in/ítalo-fasanelli-leomil](https://www.linkedin.com/in/ítalo-fasanelli-leomil-571ab782/)
+| [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="v logo" width="24">](https://twitter.com/ifasanelli) | [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="v logo" width="24">](https://www.linkedin.com/in/ítalo-fasanelli-leomil-571ab782/) | [<img src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="v logo" width="24">](https://www.instagram.com/italofasanelli/)
+|---|---|---|
 
 </samp>
+
