@@ -6,7 +6,7 @@
 
 ### Hi, I'm Ítalo 👋
 
-- 💻 Programmer at [@autoseg](https://www.autoseg.com/)
+- 💻 Programmer at [autoseg](https://www.autoseg.com/)
 
 ### Tech Stack :computer:
 
