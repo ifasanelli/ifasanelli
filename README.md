@@ -6,7 +6,7 @@
 
 ### Hi, I'm Ítalo 👋
 
-- :alien: Programmer at [AutoSeg](https://www.autoseg.com/)
+- :alien: Back-end Developer at [AutoSeg](https://www.autoseg.com/)
 
 ### Tech Stack :computer:
 
