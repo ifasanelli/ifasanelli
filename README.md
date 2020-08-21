@@ -6,16 +6,16 @@
 
 ### Hi, I'm Ítalo 👋
 
-- :alien: Back-end Developer at [AutoSeg](https://www.autoseg.com/)
+- Back-end Developer at [AutoSeg](https://www.autoseg.com/)
 
 ### Tech Stack :computer:
 
-- :suspect: Knowing/Using
+- Knowing/Using :suspect:
 
 | [<img src="https://cdn.svgporn.com/logos/ruby.svg" alt="v logo" width="24">](https://www.ruby-lang.org/) | [<img src="https://cdn.svgporn.com/logos/rails.svg" alt="v logo" width="24">](https://rubyonrails.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="v logo" width="24">](http://www.ecmascript.org/)  |  [<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="v logo" width="24">](https://www.postgresql.org/)  |  [<img src="https://cdn.svgporn.com/logos/github.svg" alt="v logo" width="24">](https://www.ghithub.com/)  | [<img src="https://cdn.svgporn.com/logos/git.svg" alt="v logo" width="24">](https://git-scm.com/)  | [<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="v logo" width="24">](https://code.visualstudio.com/)  | [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="v logo" width="24">](https://ubuntu.com/)  | 
 |----|----|----|----|----|----|----|----|
 
-- :hurtrealbad: Learning
+- Learning :hurtrealbad:
 
 | [<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="v logo" width="24">](https://elixir-lang.org/) 
 |---|
