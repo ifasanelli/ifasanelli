@@ -6,7 +6,7 @@
 
 ### Hi, I'm Ítalo 👋
 
-- Back-end Developer at [AutoSeg](https://www.autoseg.com/)
+- Back-end Developer at [Locaweb](https://www.locaweb.com.br/)
 
 ### Tech Stack :computer:
 
