@@ -17,8 +17,7 @@
 
 - Learning :hurtrealbad:
 
-| [<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" alt="golang logo" width="24">](https://go.dev/) 
-| [<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" alt="nestjs logo" width="24">](https://nestjs.com/)
+| [<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" alt="golang logo" width="24">](https://go.dev/) | [<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" alt="nestjs logo" width="24">](https://nestjs.com/)
 |---|
 
 ### Find me around at 🌎
